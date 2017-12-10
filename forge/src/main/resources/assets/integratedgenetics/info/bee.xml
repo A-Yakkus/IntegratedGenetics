@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section name="info_book.integratedgenetics.section.main">
+	<section name="info_book.integratedgenetics.introduction">
+        <paragraph>info_book.integratedgenetics.introduction.text1</paragraph>
+        <paragraph>info_book.integratedgenetics.introduction.text2</paragraph>
+        <paragraph>info_book.integratedgenetics.introduction.text3</paragraph>
+    </section>
+	<section name="info_book.integratedgenetics.section.part">
+	   <section name="info_book.integratedgenetics.parts.gene.reader.title">
+            <paragraph>info_book.integratedgenetics.parts.gene.reader.info</paragraph>
+            <appendix type="crafting_recipe">integratedgenetics:part_gene_reader_item</appendix>
+        </section>
+		<section name="info_book.integratedgenetics.parts.bee.reader.title">
+			<paragraph>info_book.integratedgenetics.parts.bee.reader.info</paragraph>
+			<appendix type="crafting_recipe">integratedgenetics:part_bee_reader_item</appendix>
+			<appendix_list factory="integrateddynamics:part_aspects">bee_reader</appendix_list>
+		</section>
+		<!--
+		<section name="info_book.integratedgenetics.parts.tree.reader.title">
+			<paragraph>info_book.integratedgenetics.parts.tree.reader.info</paragraph>
+			<appendix type="crafting_recipe">integratedgenetics:part_tree_reader_item</appendix>
+			<appendix_list factory="integrateddynamics:part_aspects">Tree_reader</appendix_list>
+		</section>-->
+	</section>
+	<section name="info_book.integratedgenetics.section.bees">
+		<section name="info_book.integratedgenetics.bees.menril.title">
+			<paragraph>info_book.integratedgenetics.bees.menril.info.1</paragraph>
+			<paragraph>info_book.integratedgenetics.bees.menril.info.2</paragraph>
+		</section>
+		<section name="info_book.integratedgenetics.bees.chorus.title">
+			<paragraph>info_book.integratedgenetics.bees.chorus.info.1</paragraph>
+			<paragraph>info_book.integratedgenetics.bees.chorus.info.2</paragraph>
+		</section>
+	</section>
+	
+</section>

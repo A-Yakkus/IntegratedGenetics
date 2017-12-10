@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipes>
+<recipe type="shaped">
+		<input>
+			<grid>
+				<gridrow>
+					<item />
+					<item>forestry:bee_drone_ge</item>
+					<item />
+				</gridrow>
+				<gridrow>
+					<item type="oredict">beeComb</item>
+					<item>integrateddynamics:part_block_reader_item</item>
+					<item type="oredict">beeComb</item>
+				</gridrow>
+				<gridrow>
+					<item type="oredict">beeComb</item>
+					<item type="oredict">beeComb</item>
+					<item type="oredict">beeComb</item>
+				</gridrow>
+			</grid>
+		</input>
+		<output>
+			<item>integratedgenetics:part_bee_reader_item</item>
+		</output>
+	</recipe>
+	<recipe type="shaped">
+        <input>
+            <grid>
+                <gridrow>
+                    <item />
+                    <item>forestry:bee_drone_ge</item>
+                    <item />
+                </gridrow>
+                <gridrow>
+                    <item type="oredict">beeComb</item>
+                    <item>integrateddynamics:part_inventory_reader_item</item>
+                    <item type="oredict">beeComb</item>
+                </gridrow>
+                <gridrow>
+                    <item />
+                    <item />
+                    <item />
+                </gridrow>
+            </grid>
+        </input>
+        <output>
+            <item>integratedgenetics:part_gene_reader_item</item>
+        </output>
+    </recipe>
+    <recipe type="shaped">
+        <input>
+            <grid>
+                <gridrow>
+                    <item />
+                    <item type="oredict">treeSapling</item>
+                    <item />
+                </gridrow>
+                <gridrow>
+                    <item type="oredict">treeLeaves</item>
+                    <item>integrateddynamics:part_inventory_reader_item</item>
+                    <item type="oredict">treeLeaves</item>
+                </gridrow>
+                <gridrow>
+                    <item />
+                    <item />
+                    <item />
+                </gridrow>
+            </grid>
+        </input>
+        <output>
+            <item>integratedgenetics:part_gene_reader_item</item>
+        </output>
+    </recipe>
+  
+</recipes>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipes>
+	<recipe type="integrateddynamics:squeezer">
+		<tag>convenience</tag>
+		<condition type="mod">forestry</condition>
+		<condition type="config">squeezer</condition>
+		<input>
+			<item>forestry:honeydew</item>
+		</input>
+		<output>
+		    <item>forestry:propolis</item>
+			<fluid amount="180">for.honey</fluid>
+		</output>
+	</recipe>
+</recipes>

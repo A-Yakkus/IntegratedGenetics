@@ -1,0 +1,16 @@
+[
+{
+  "modid": "integratedgenetics",
+  "name": "Integrated Genetics",
+  "description": "Integrating Forestry bees with logic",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["A_Yakkus"],
+  "credits": "The Forestry for minecraft and the integrated dynamics teams",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

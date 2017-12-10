@@ -1,0 +1,41 @@
+#Bees, trees and more
+for.bees.species.menril=Menril
+for.bees.species.chorus=Chorus
+for.flowers.menril=Menril
+
+#aspects and parts
+parttype.parttypes.integratedgenetics.bee_reader.name=Bee Reader
+parttype.parttypes.integratedgenetics.bee_reader.info=Provides information to the network based on forestry bees and bee housing
+parttype.parttypes.integratedgenetics.i_bee_reader.name=Gene Reader
+parttype.parttypes.integratedgenetics.i_bee_reader.info=Provides information to the network based on forestry genetic items
+
+aspect.aspects.integratedgenetics.read.boolean.bee.beeHousing.isBeeHouse.name=Is BeeHouse
+aspect.aspects.integratedgenetics.read.boolean.bee.beeHousing.isAnalyzed.name=Is Bee Analyzed
+aspect.aspects.integratedgenetics.read.boolean.bee.beeHousing.ishybrid.name=Is Hybrid Bee
+aspect.aspects.integratedgenetics.read.integer.bee.beeHousing.beeAge.name=Bee Age
+aspect.aspects.integratedgenetics.read.string.bee.beeHousing.Speciesp.name=Primary Bee Species
+aspect.aspects.integratedgenetics.read.string.bee.beeHousing.Speciess.name=Secondary Bee Species
+aspect.aspects.integratedgenetics.read.list.gene.traits.name=Genetic Traits
+
+#Information Book 
+info_book.integratedgenetics.section.main=With the integration of Bees
+info_book.integratedgenetics.introduction=Introduction
+info_book.integratedgenetics.introduction.text1=&lIntegrated Bees&r is an extension to both the integrated dynamics mod and the forestry mod. It allows the reading of bee traits for use over the integrated dynamics network.
+info_book.integratedgenetics.introduction.text2=This mod provides information about the bee housing to the network, as well as provide more logic options regarding bees.
+info_book.integratedgenetics.introduction.text3=It also adds a new bee that can produce &lCrystalized Menril Chunk&r and &lMenril Berries&r.
+
+info_book.integratedgenetics.section.part=Parts
+info_book.integratedgenetics.parts.introduction.text=Integrated Bees adds a new reader to the &lIntegrated dynamics&r network
+info_book.integratedgenetics.parts.bee.reader.title=Bee Reader
+info_book.integratedgenetics.parts.bee.reader.info=The bee reader creates bee information from a bee housing. These include: Bee House, Apiary and Alveary.
+info_book.integratedgenetics.parts.gene.reader.title=Gene Reader
+info_book.integratedgenetics.parts.gene.reader.info=The gene reader acts like the inventory reader, except it also shows the traits of an item with genetic information from forestry. (Providing it has been analyzed)
+
+info_book.integratedgenetics.section.bees=Bees
+info_book.integratedgenetics.bees.menril.title=Menril Bee
+info_book.integratedgenetics.bees.menril.info.1=The Menril bee is a curious specimen, preferring to harness the latent power of Menril trees as it's flower unlike regular bees.
+info_book.integratedgenetics.bees.menril.info.2=It can be obtained by breeding a &lModest bee&r and a &lNoble bee&r.
+
+info_book.integratedgenetics.bees.chorus.title=Chorus Bee
+info_book.integratedgenetics.bees.chorus.info.1=The Chorus bee has harnessed the power of the end to create &lCrystalized Chorus Chunk&rs from it's docile parent.
+info_book.integratedgenetics.bees.chorus.info.2=It can be obtained by breeding a &lMenril Bee&r and an &lEnder bee&r.

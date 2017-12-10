@@ -61,3 +61,28 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+gradle
+
+# other
+eclipse
+run
+
